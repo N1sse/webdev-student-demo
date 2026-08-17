@@ -37,6 +37,13 @@
         </article>
 
         <article class="card">
+            <h2>Cambio prueba</h2>
+            <p>
+               Cambio :3
+            </p>
+        </article>
+
+        <article class="card">
             <h2>Buenas prácticas</h2>
             <p>
                 El proyecto incorporará pruebas, formato de código, migraciones
